@@ -1,8 +1,13 @@
 goblin
 ======
 
-An attempted port of http://tools.suckless.org/9base to the programming language Go.
+A collection of coreutils written in Go.
 
-Finished ports:
+Loosely based on http://tools.suckless.org/9base.
+
+This is purely an educational endeavour both in learning Go better and learning
+the utilities I use every day better.
+
+Currently available utils:
  * echo
  * sleep

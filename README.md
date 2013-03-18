@@ -9,6 +9,7 @@ This is an educational endeavour both in learning Go better and learning
 the utilities we use every day better.
 
 #### Currently available utils (some may be fairly minimal):
+ * cat
  * echo
  * sleep
  * seq

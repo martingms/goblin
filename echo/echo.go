@@ -24,8 +24,8 @@ func main() {
 
 	if *e {
 		for i := 0; i < len(str); i++ {
-			c := str[i : i+1]
-			if c == "\\" { // Forcing one-rune string instead of rune value.
+			c := str[i : i+1] // Forcing one-rune string instead of rune value.
+			if c == "\\" {
 				switch str[i+1] {
 				case 'a':
 					c = "\a"

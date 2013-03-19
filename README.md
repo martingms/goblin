@@ -13,3 +13,4 @@ the utilities we use every day better.
  * echo
  * sleep
  * seq
+ * uniq
